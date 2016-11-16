@@ -2,10 +2,26 @@
 *.log
 
 # sbt specific
-.cache
+*.cache
+*.properties
+*.xml
+*.css
+*.xsl
+*.MF
+*.dll
+*.lib
+*.so
+*.*lib
+*.a
+*.txt
+*.gif
+*.dtd
+*.jarName
+streaming-twitter/target/streams/
+streaming-twitter/target/streams/runtime/
+streaming-twitter/target/streams/
 .history
 .lib/
-target/
 lib_managed/
 src_managed/
 project/boot/
